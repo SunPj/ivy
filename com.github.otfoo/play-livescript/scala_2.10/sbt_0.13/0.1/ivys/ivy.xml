@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
-	<info organisation="com.github.otfoo" module="play-livescript" revision="0.1" status="release" publication="20131014155925" e:scalaVersion="2.10" e:sbtVersion="0.13">
+	<info organisation="com.github.otfoo" module="play-livescript" revision="0.1" status="release" publication="20131014171442" e:scalaVersion="2.10" e:sbtVersion="0.13">
 		<description>
 		sbt plugin for handling LiveScript assets in Play
 		</description>
